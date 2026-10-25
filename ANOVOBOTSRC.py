@@ -36,7 +36,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8682681706:AAG_QWLWWo1R8AkI3dBCyA1tcB5I2bVs82k")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8682681706:AAErMVOtyLVOJl69Bs4jpL_WS8o6QHzDCj0")
 
 BAN_IMAGE_URL = os.environ.get(
     "BAN_IMAGE_URL",
